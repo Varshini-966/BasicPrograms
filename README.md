@@ -7,5 +7,6 @@ Contents
 1. Star Patterns
 2. Alphabet Patterns
 3. Character Patterns
-4. 
+4. Numbers
+5. Number Patterns
 
